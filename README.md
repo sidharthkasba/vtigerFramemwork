@@ -1,2 +1,2 @@
-# vtigerFramemwork
+# vtigerFramework
 selenium framework
